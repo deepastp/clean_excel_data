@@ -15,4 +15,8 @@ Example 2: The MID function
 Example 3: The CONCATENATE function
 Example 4: TRIM function
 
+Excel 3: Cosmetics Inc. - Data for Pivot Table and VLOOKUP
+Example 1: Pivot tables
+Example 2: VLOOKUP
+Example 3: Plotting
 
